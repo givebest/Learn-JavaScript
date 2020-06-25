@@ -10,11 +10,11 @@
 
 ### 深拷贝
 
-* [For in & hasOwnProperty](#for-in--hasownproperty)
-* [Object.assign()](#objectassign)
+* [For in & hasOwnProperty](Object#for-in--hasownproperty)
+* [Object.assign()](Object#objectassign)
 
 ### 继承
 
-* [Object.create()](#objectcreate)
+* [Object.create()](Object#objectcreate)
 
 
