@@ -35,3 +35,10 @@
 
 * [筛选 filter](Array/#1-筛选-filter)
 * [new Set()](Array/#2-new-set)
+
+## [Inheritance](Inheritance/)
+
+* [原型链](Inheritance/#原型链)
+* [组合继承](Inheritance/#1-组合继承)
+* [Object.create() 继承](Inheritance/#2-objectcreate-继承)
+* [class & extends 继承](Inheritance/#3-class--extends-继承)
