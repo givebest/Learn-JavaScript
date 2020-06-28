@@ -140,6 +140,5 @@ pen1.sayColrs(); // ["white", "black", "gray"]
 let pen2 = new SubPen('ball-pen');
 pen2.sayName();  // ball-pen
 pen2.sayColrs(); // ["white", "black"]
-``
 
 ```

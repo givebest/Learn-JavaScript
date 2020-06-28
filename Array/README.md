@@ -13,7 +13,7 @@ let array1 = [
 ```
 ## 拷贝
 
-### 1. splice
+### 1. slice
 
 ```js
 let array2 = array1.slice();
