@@ -21,7 +21,7 @@
 
 ### 拷贝
 
-* [splice](Array/#1-splice)
+* [slice](Array/#1-slice)
 * [展开语法...](Array/#2-展开语法)
 * [Array.from()](Array/#3-arrayfrom)
 
