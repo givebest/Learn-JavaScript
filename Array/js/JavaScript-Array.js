@@ -13,7 +13,7 @@ let array1 = [
  */
 let array2 = array1.slice();
 array1[0] = "a";
-console.warn("Array 拷贝 splice");
+console.warn("Array 拷贝 slice");
 console.log(array2, array2[0]); // [1, 2, 3, 4, 5, Array(3)]  1
 
 /**
